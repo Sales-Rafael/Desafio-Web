@@ -1,5 +1,4 @@
 # Desafio-Web
 Desafio Projeto Desenvolve Site Web(Html e Css)
-Nome
-PDita
-Email
+PDita157
+Projeto Desenvolve - Itabira
